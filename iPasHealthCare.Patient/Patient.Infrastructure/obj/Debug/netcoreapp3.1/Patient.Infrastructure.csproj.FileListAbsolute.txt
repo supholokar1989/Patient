@@ -1,0 +1,17 @@
+D:\DevelopmentEnvironment\PROJECT\IPAS_PatientService\IPAS_PatientService\iPasHealthCare.Patient\Patient.Infrastructure\bin\Debug\netcoreapp3.1\Microsoft.Azure.Documents.ServiceInterop.dll
+D:\DevelopmentEnvironment\PROJECT\IPAS_PatientService\IPAS_PatientService\iPasHealthCare.Patient\Patient.Infrastructure\bin\Debug\netcoreapp3.1\Cosmos.CRTCompat.dll
+D:\DevelopmentEnvironment\PROJECT\IPAS_PatientService\IPAS_PatientService\iPasHealthCare.Patient\Patient.Infrastructure\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+D:\DevelopmentEnvironment\PROJECT\IPAS_PatientService\IPAS_PatientService\iPasHealthCare.Patient\Patient.Infrastructure\bin\Debug\netcoreapp3.1\Patient.Infrastructure.deps.json
+D:\DevelopmentEnvironment\PROJECT\IPAS_PatientService\IPAS_PatientService\iPasHealthCare.Patient\Patient.Infrastructure\bin\Debug\netcoreapp3.1\Patient.Infrastructure.dll
+D:\DevelopmentEnvironment\PROJECT\IPAS_PatientService\IPAS_PatientService\iPasHealthCare.Patient\Patient.Infrastructure\bin\Debug\netcoreapp3.1\Patient.Infrastructure.pdb
+D:\DevelopmentEnvironment\PROJECT\IPAS_PatientService\IPAS_PatientService\iPasHealthCare.Patient\Patient.Infrastructure\bin\Debug\netcoreapp3.1\iPas.Infrastructure.EventBus.dll
+D:\DevelopmentEnvironment\PROJECT\IPAS_PatientService\IPAS_PatientService\iPasHealthCare.Patient\Patient.Infrastructure\bin\Debug\netcoreapp3.1\Patient.Domain.dll
+D:\DevelopmentEnvironment\PROJECT\IPAS_PatientService\IPAS_PatientService\iPasHealthCare.Patient\Patient.Infrastructure\bin\Debug\netcoreapp3.1\Patient.Domain.pdb
+D:\DevelopmentEnvironment\PROJECT\IPAS_PatientService\IPAS_PatientService\iPasHealthCare.Patient\Patient.Infrastructure\obj\Debug\netcoreapp3.1\Patient.Infrastructure.csprojAssemblyReference.cache
+D:\DevelopmentEnvironment\PROJECT\IPAS_PatientService\IPAS_PatientService\iPasHealthCare.Patient\Patient.Infrastructure\obj\Debug\netcoreapp3.1\Patient.Infrastructure.AssemblyInfoInputs.cache
+D:\DevelopmentEnvironment\PROJECT\IPAS_PatientService\IPAS_PatientService\iPasHealthCare.Patient\Patient.Infrastructure\obj\Debug\netcoreapp3.1\Patient.Infrastructure.AssemblyInfo.cs
+D:\DevelopmentEnvironment\PROJECT\IPAS_PatientService\IPAS_PatientService\iPasHealthCare.Patient\Patient.Infrastructure\obj\Debug\netcoreapp3.1\Patient.Infrastructure.csproj.CoreCompileInputs.cache
+D:\DevelopmentEnvironment\PROJECT\IPAS_PatientService\IPAS_PatientService\iPasHealthCare.Patient\Patient.Infrastructure\obj\Debug\netcoreapp3.1\Patient.Infrastructure.csproj.CopyComplete
+D:\DevelopmentEnvironment\PROJECT\IPAS_PatientService\IPAS_PatientService\iPasHealthCare.Patient\Patient.Infrastructure\obj\Debug\netcoreapp3.1\Patient.Infrastructure.dll
+D:\DevelopmentEnvironment\PROJECT\IPAS_PatientService\IPAS_PatientService\iPasHealthCare.Patient\Patient.Infrastructure\obj\Debug\netcoreapp3.1\Patient.Infrastructure.pdb
+D:\DevelopmentEnvironment\PROJECT\IPAS_PatientService\IPAS_PatientService\iPasHealthCare.Patient\Patient.Infrastructure\bin\Debug\netcoreapp3.1\iPas.Infrastructure.EventBus.pdb

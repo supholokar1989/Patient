@@ -1,0 +1,11 @@
+version: '3.4'
+
+services:
+  patient.api:
+    image: ${DOCKER_REGISTRY-}patientapi
+    hostname: patient.api
+    ports: 
+        - 3000:3000
+    build:
+      context: .
+      dockerfile: Patient.API/Dockerfile

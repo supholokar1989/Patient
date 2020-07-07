@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcTenant";
+
+package TenantApi;
+
+service TenantApiProvider {
+	rpc GetFailityIDByFacilityCodeAndTenantId (ModulesRequest) returns (ModulesResponse);
+}
+	message ModulesRequest {
+		string tenantId = 1;
+		string facilityCode = 2;
+	}
+	
+	message ModulesResponse {		
+        string FacilityId = 1;      
+	}

@@ -1,0 +1,12 @@
+D:\DevelopmentEnvironment\PROJECT\IPAS_PatientService\IPAS_PatientService\iPasHealthCare.Patient\Patient.Domain\bin\Release\netcoreapp3.1\Patient.Domain.deps.json
+D:\DevelopmentEnvironment\PROJECT\IPAS_PatientService\IPAS_PatientService\iPasHealthCare.Patient\Patient.Domain\bin\Release\netcoreapp3.1\Patient.Domain.dll
+D:\DevelopmentEnvironment\PROJECT\IPAS_PatientService\IPAS_PatientService\iPasHealthCare.Patient\Patient.Domain\bin\Release\netcoreapp3.1\Patient.Domain.pdb
+D:\DevelopmentEnvironment\PROJECT\IPAS_PatientService\IPAS_PatientService\iPasHealthCare.Patient\Patient.Domain\bin\Release\netcoreapp3.1\iPas.Infrastructure.EventBus.dll
+D:\DevelopmentEnvironment\PROJECT\IPAS_PatientService\IPAS_PatientService\iPasHealthCare.Patient\Patient.Domain\bin\Release\netcoreapp3.1\iPas.Infrastructure.EventBus.pdb
+D:\DevelopmentEnvironment\PROJECT\IPAS_PatientService\IPAS_PatientService\iPasHealthCare.Patient\Patient.Domain\obj\Release\netcoreapp3.1\Patient.Domain.csprojAssemblyReference.cache
+D:\DevelopmentEnvironment\PROJECT\IPAS_PatientService\IPAS_PatientService\iPasHealthCare.Patient\Patient.Domain\obj\Release\netcoreapp3.1\Patient.Domain.AssemblyInfoInputs.cache
+D:\DevelopmentEnvironment\PROJECT\IPAS_PatientService\IPAS_PatientService\iPasHealthCare.Patient\Patient.Domain\obj\Release\netcoreapp3.1\Patient.Domain.AssemblyInfo.cs
+D:\DevelopmentEnvironment\PROJECT\IPAS_PatientService\IPAS_PatientService\iPasHealthCare.Patient\Patient.Domain\obj\Release\netcoreapp3.1\Patient.Domain.csproj.CoreCompileInputs.cache
+D:\DevelopmentEnvironment\PROJECT\IPAS_PatientService\IPAS_PatientService\iPasHealthCare.Patient\Patient.Domain\obj\Release\netcoreapp3.1\Patient.Domain.csproj.CopyComplete
+D:\DevelopmentEnvironment\PROJECT\IPAS_PatientService\IPAS_PatientService\iPasHealthCare.Patient\Patient.Domain\obj\Release\netcoreapp3.1\Patient.Domain.dll
+D:\DevelopmentEnvironment\PROJECT\IPAS_PatientService\IPAS_PatientService\iPasHealthCare.Patient\Patient.Domain\obj\Release\netcoreapp3.1\Patient.Domain.pdb

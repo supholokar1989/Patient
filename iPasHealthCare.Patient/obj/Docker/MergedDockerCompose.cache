@@ -1,0 +1,19 @@
+services:
+  patient.api:
+    build:
+      context: D:\DevelopmentEnvironment\PROJECT\IPAS_PatientService\IPAS_PatientService\iPasHealthCare.Patient
+      dockerfile: Patient.API/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    hostname: patient.api
+    image: patientapi
+    ports:
+    - target: 80
+    - target: 443
+    - published: 3000
+      target: 3000
+    volumes:
+    - C:\Users\skkar\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\skkar\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+version: '3.4'

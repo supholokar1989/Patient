@@ -1,0 +1,227 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\DevelopmentEnvironment\\PROJECT\\IPAS_PatientService\\IPAS_PatientService\\iPasHealthCare.Patient\\Patient.Infrastructure\\Patient.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "D:\\DevelopmentEnvironment\\PROJECT\\IPAS_PatientService\\IPAS_PatientService\\iPasHealthCare.Patient\\iPas.Infrastructure.EventBus\\iPas.Infrastructure.EventBus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DevelopmentEnvironment\\PROJECT\\IPAS_PatientService\\IPAS_PatientService\\iPasHealthCare.Patient\\iPas.Infrastructure.EventBus\\iPas.Infrastructure.EventBus.csproj",
+        "projectName": "iPas.Infrastructure.EventBus",
+        "projectPath": "D:\\DevelopmentEnvironment\\PROJECT\\IPAS_PatientService\\IPAS_PatientService\\iPasHealthCare.Patient\\iPas.Infrastructure.EventBus\\iPas.Infrastructure.EventBus.csproj",
+        "packagesPath": "C:\\Users\\skkar\\.nuget\\packages\\",
+        "outputPath": "D:\\DevelopmentEnvironment\\PROJECT\\IPAS_PatientService\\IPAS_PatientService\\iPasHealthCare.Patient\\iPas.Infrastructure.EventBus\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\skkar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\DevelopmentEnvironment\\PROJECT\\IPAS_PatientService\\IPAS_PatientService\\iPasHealthCare.Patient\\Patient.Domain\\Patient.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DevelopmentEnvironment\\PROJECT\\IPAS_PatientService\\IPAS_PatientService\\iPasHealthCare.Patient\\Patient.Domain\\Patient.Domain.csproj",
+        "projectName": "Patient.Domain",
+        "projectPath": "D:\\DevelopmentEnvironment\\PROJECT\\IPAS_PatientService\\IPAS_PatientService\\iPasHealthCare.Patient\\Patient.Domain\\Patient.Domain.csproj",
+        "packagesPath": "C:\\Users\\skkar\\.nuget\\packages\\",
+        "outputPath": "D:\\DevelopmentEnvironment\\PROJECT\\IPAS_PatientService\\IPAS_PatientService\\iPasHealthCare.Patient\\Patient.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\skkar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\DevelopmentEnvironment\\PROJECT\\IPAS_PatientService\\IPAS_PatientService\\iPasHealthCare.Patient\\iPas.Infrastructure.EventBus\\iPas.Infrastructure.EventBus.csproj": {
+                "projectPath": "D:\\DevelopmentEnvironment\\PROJECT\\IPAS_PatientService\\IPAS_PatientService\\iPasHealthCare.Patient\\iPas.Infrastructure.EventBus\\iPas.Infrastructure.EventBus.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\DevelopmentEnvironment\\PROJECT\\IPAS_PatientService\\IPAS_PatientService\\iPasHealthCare.Patient\\Patient.Infrastructure\\Patient.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DevelopmentEnvironment\\PROJECT\\IPAS_PatientService\\IPAS_PatientService\\iPasHealthCare.Patient\\Patient.Infrastructure\\Patient.Infrastructure.csproj",
+        "projectName": "Patient.Infrastructure",
+        "projectPath": "D:\\DevelopmentEnvironment\\PROJECT\\IPAS_PatientService\\IPAS_PatientService\\iPasHealthCare.Patient\\Patient.Infrastructure\\Patient.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\skkar\\.nuget\\packages\\",
+        "outputPath": "D:\\DevelopmentEnvironment\\PROJECT\\IPAS_PatientService\\IPAS_PatientService\\iPasHealthCare.Patient\\Patient.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\skkar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\DevelopmentEnvironment\\PROJECT\\IPAS_PatientService\\IPAS_PatientService\\iPasHealthCare.Patient\\iPas.Infrastructure.EventBus\\iPas.Infrastructure.EventBus.csproj": {
+                "projectPath": "D:\\DevelopmentEnvironment\\PROJECT\\IPAS_PatientService\\IPAS_PatientService\\iPasHealthCare.Patient\\iPas.Infrastructure.EventBus\\iPas.Infrastructure.EventBus.csproj"
+              },
+              "D:\\DevelopmentEnvironment\\PROJECT\\IPAS_PatientService\\IPAS_PatientService\\iPasHealthCare.Patient\\Patient.Domain\\Patient.Domain.csproj": {
+                "projectPath": "D:\\DevelopmentEnvironment\\PROJECT\\IPAS_PatientService\\IPAS_PatientService\\iPasHealthCare.Patient\\Patient.Domain\\Patient.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Azure.Cosmos": {
+              "target": "Package",
+              "version": "[3.10.1, )"
+            },
+            "Microsoft.Azure.DocumentDB": {
+              "target": "Package",
+              "version": "[2.11.0, )"
+            },
+            "Microsoft.Azure.Storage.Common": {
+              "target": "Package",
+              "version": "[11.1.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

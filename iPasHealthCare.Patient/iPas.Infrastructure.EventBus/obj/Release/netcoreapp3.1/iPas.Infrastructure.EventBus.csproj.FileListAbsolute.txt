@@ -1,0 +1,15 @@
+C:\Users\dreck\source\repos\RegistrationService.Data\SimpleRegistrationService\iPas.Infrastructure.EventBus\bin\Release\netcoreapp3.1\iPas.Infrastructure.EventBus.deps.json
+C:\Users\dreck\source\repos\RegistrationService.Data\SimpleRegistrationService\iPas.Infrastructure.EventBus\bin\Release\netcoreapp3.1\iPas.Infrastructure.EventBus.dll
+C:\Users\dreck\source\repos\RegistrationService.Data\SimpleRegistrationService\iPas.Infrastructure.EventBus\bin\Release\netcoreapp3.1\iPas.Infrastructure.EventBus.pdb
+C:\Users\dreck\source\repos\RegistrationService.Data\SimpleRegistrationService\iPas.Infrastructure.EventBus\obj\Release\netcoreapp3.1\iPas.Infrastructure.EventBus.AssemblyInfoInputs.cache
+C:\Users\dreck\source\repos\RegistrationService.Data\SimpleRegistrationService\iPas.Infrastructure.EventBus\obj\Release\netcoreapp3.1\iPas.Infrastructure.EventBus.AssemblyInfo.cs
+C:\Users\dreck\source\repos\RegistrationService.Data\SimpleRegistrationService\iPas.Infrastructure.EventBus\obj\Release\netcoreapp3.1\iPas.Infrastructure.EventBus.dll
+C:\Users\dreck\source\repos\RegistrationService.Data\SimpleRegistrationService\iPas.Infrastructure.EventBus\obj\Release\netcoreapp3.1\iPas.Infrastructure.EventBus.pdb
+D:\DevelopmentEnvironment\PROJECT\IPAS_PatientService\IPAS_PatientService\iPasHealthCare.Patient\iPas.Infrastructure.EventBus\bin\Release\netcoreapp3.1\iPas.Infrastructure.EventBus.deps.json
+D:\DevelopmentEnvironment\PROJECT\IPAS_PatientService\IPAS_PatientService\iPasHealthCare.Patient\iPas.Infrastructure.EventBus\bin\Release\netcoreapp3.1\iPas.Infrastructure.EventBus.dll
+D:\DevelopmentEnvironment\PROJECT\IPAS_PatientService\IPAS_PatientService\iPasHealthCare.Patient\iPas.Infrastructure.EventBus\bin\Release\netcoreapp3.1\iPas.Infrastructure.EventBus.pdb
+D:\DevelopmentEnvironment\PROJECT\IPAS_PatientService\IPAS_PatientService\iPasHealthCare.Patient\iPas.Infrastructure.EventBus\obj\Release\netcoreapp3.1\iPas.Infrastructure.EventBus.AssemblyInfoInputs.cache
+D:\DevelopmentEnvironment\PROJECT\IPAS_PatientService\IPAS_PatientService\iPasHealthCare.Patient\iPas.Infrastructure.EventBus\obj\Release\netcoreapp3.1\iPas.Infrastructure.EventBus.AssemblyInfo.cs
+D:\DevelopmentEnvironment\PROJECT\IPAS_PatientService\IPAS_PatientService\iPasHealthCare.Patient\iPas.Infrastructure.EventBus\obj\Release\netcoreapp3.1\iPas.Infrastructure.EventBus.csproj.CoreCompileInputs.cache
+D:\DevelopmentEnvironment\PROJECT\IPAS_PatientService\IPAS_PatientService\iPasHealthCare.Patient\iPas.Infrastructure.EventBus\obj\Release\netcoreapp3.1\iPas.Infrastructure.EventBus.dll
+D:\DevelopmentEnvironment\PROJECT\IPAS_PatientService\IPAS_PatientService\iPasHealthCare.Patient\iPas.Infrastructure.EventBus\obj\Release\netcoreapp3.1\iPas.Infrastructure.EventBus.pdb

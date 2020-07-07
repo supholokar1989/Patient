@@ -1,0 +1,80 @@
+{
+  "id": "90461945-706a-47cc-9ef2-75dab1f74bc8",
+  "TenantId": "1",
+  "PatientVisit": {
+    "LastEventType": "S12",
+    "LastEventDateTime": "2020-06-29T13:34:00.000",
+    "LastEventEmployee": 1234,
+    "AppointmentId": 895796,
+    "PatientId": 171085,
+    "VisitDate": "2020-07-29T13:45:00.000"
+  },
+  "Patient": {
+    "PatientId": 171085,
+    "PatientMedicalRecordNumber": 338510,
+    "PatientFirstName": "Mary",
+    "PatientLastName": "Lamb",
+    "PatientDateOfBirth": "1999-10-18",
+    "PatientGender": "F",
+    "PatientLanguage": "English",
+    "MaritalStatus": "Married",
+    "PatientEmailAddress": "testeremail@test.com",
+    "PatientPhoneNumber": [
+      {
+        "PhoneNumber": 8632417751,
+        "PhoneNumberType": "mobile"
+      }
+    ],
+    "PatientAddress": [
+      {
+        "AddressType": "home",
+        "StreetAddress1": "123 Test Drive",
+        "StreetAddress2": "",
+        "City": "Knoxville",
+        "State": "TN",
+        "PostalCode": 37922
+      }
+    ]
+  },
+  "Appointment": {
+    "AppointmentId": 895796,
+    "AppointmentStatus": "Booked",
+    "AppointmentType": "Recheck",
+    "AppointmentStartDate": "2020-07-29T13:30:00.000",
+    "AppointmentEndDate": "2020-07-29T13:45:00.000",
+    "AppointmentDuration": 15,
+    "AppointmentDurationUnits": "minutes",
+    "AppointmentReason": "Recheck",
+    "AppointmentLocation": [
+      {
+        "LocationPointOfCare": "Office",
+        "LocationFacility": "FAC",
+        "LocationBuilding": 1,
+        "LocationFloor": 2,
+        "LocationRoom": 200,
+        "LocationDate": "2020-07-29T13:30:00.000"
+      }
+    ],
+    "AppointmentPersonnel": [
+      {
+        "PersonnelResourceRole": "Attending",
+        "PersonalNumber": 9485714089,
+        "PersonnelFirstName": "Mark",
+        "PersonnelLastName": "Jones",
+        "PersonnelResourceDate": "2020-07-29T13:30:00.000"
+      }
+    ]
+  },
+  "Transaction": [
+    {
+      "MessageId": 5751653812,
+      "FacilityCode": "FAC",
+      "EventType": "S12",
+      "EventDateTime": "2020-06-29T13:34:00.000",
+      "EmployeeType": "AppointmentPlacerContact",
+      "EmployeeId": 1234,
+      "EmployeeFirstName": "Lisa",
+      "EmployeeLastName": "Smith"
+    }
+  ]
+}
